@@ -1,4 +1,4 @@
-# Infinity(spotify-clone)
+🎶 Dynamic Music Player
 This is a fully functional Dynamic Music Player built with HTML, CSS, and JavaScript. It allows users to listen to music from a playlist, view the current song's details (like artist name and album image), and control playback using features like play, pause, skip, and volume control.
 
 Features
